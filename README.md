@@ -80,4 +80,4 @@ See [docs/business_memo.md](docs/business_memo.md) for the recommendations.
 
 ## Author
 
-Built by Piyush ([@piyushweb-ai](https://github.com/piyushweb-ai)). Data: Olist, via Kaggle.
+Piyush Dohare ([@piyushweb-ai](https://github.com/piyushweb-ai)). Data: Olist, via Kaggle.
