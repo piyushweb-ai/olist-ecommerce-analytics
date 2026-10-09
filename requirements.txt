@@ -1,0 +1,7 @@
+pandas
+duckdb
+jupyter
+matplotlib
+seaborn
+scipy
+statsmodels

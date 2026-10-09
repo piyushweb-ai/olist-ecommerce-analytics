@@ -1,0 +1,5 @@
+lateness,orders,avg_review_score
+1_on_time,88163,4.29
+2_1-3_days_late,2636,3.77
+3_4-7_days_late,1773,2.32
+4_8plus_days_late,3252,1.73
